@@ -18,7 +18,7 @@
         "Locations": {
             "value": [{
                     "AzureLocation": "West Europe",
-                    "CountryCode": "DE"
+                    "CountryCode": "BE"
                 },
                 {
                     "AzureLocation": "Australia East",
