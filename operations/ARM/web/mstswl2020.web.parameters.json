@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "project": {
-            "value": "mstswl2020"
+            "value": "wmmstswl2020"
         },
         "env": {
             "value": "prd"
