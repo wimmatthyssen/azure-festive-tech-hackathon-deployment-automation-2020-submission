@@ -27,7 +27,7 @@
             ]
         },
         "dockerImageName": {
-            "value": "ghcr.io/mertsenel/santatechwishlist"
+            "value": "ghcr.io/wimmatthyssen/santatechwishlist"
         },
         "HostingPlanSkuConfig": {
             "value": {
