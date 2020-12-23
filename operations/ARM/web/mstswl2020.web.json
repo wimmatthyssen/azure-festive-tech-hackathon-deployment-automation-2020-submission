@@ -61,7 +61,7 @@
             "type": "array",
             "defaultValue": [{
                     "AzureLocation": "West Europe",
-                    "CountryCode": "BE"
+                    "CountryCode": "DE"
                 },
                 {
                     "AzureLocation": "Australia East",
