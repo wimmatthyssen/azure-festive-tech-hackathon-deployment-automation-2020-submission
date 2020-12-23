@@ -6,7 +6,7 @@
             "value": "wmmstswl2020"
         },
         "env": {
-            "value": "prd"
+            "value": "poc"
         },
         "ProjectRGLocation": {
             "value": "West Europe",
